@@ -20,7 +20,7 @@ Requirements:
 - GCC (for SQLite support)
 
 Build Steps:
-1. git clone https://github.com/yourusername/llmcli.git
+1. git clone https://github.com/fengwj33/llm_cli.git
 2. cd llmcli
 3. go mod download
 4. go build -o llmcli
